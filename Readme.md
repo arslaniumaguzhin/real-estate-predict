@@ -15,3 +15,5 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install scikit-learn pandas jupyter  # пример
 jupyter notebook  # для экспериментов
+
+Test protection
